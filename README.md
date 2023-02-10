@@ -1,2 +1,2 @@
 # paint-app
-A painting app made using PyGame.
+A painting app made using Pygame.
