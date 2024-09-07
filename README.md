@@ -9,7 +9,7 @@ sudo apt install python3-pip
 ```
 Instructions for other Linux Distributions are probably similar.
 
-## How to Play
+## How to Paint
 To paint, use the command
 ```
 python3 paint.py
